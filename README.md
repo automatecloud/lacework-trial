@@ -24,6 +24,36 @@ This repository helps you to quickly find the necessary information for a succes
 * [Suppress Behavior Anomaly Alerts](https://support.lacework.com/hc/en-us/articles/360038090714-Suppress-Behavior-Anomaly-Alerts)
 * [Suppress Crawler Related Alerts](https://support.lacework.com/hc/en-us/articles/360054841314-Suppress-Crawler-Related-Alerts)
 
+## Lacework for Workload Security
+
+### Before you Start
+* [Supported Operating Systems](https://support.lacework.com/hc/en-us/articles/360005230014-Supported-Operating-Systems)
+* [Required Connectivity, Proxies and Certificates](https://support.lacework.com/hc/en-us/articles/360008149354-Required-Connectivity-Proxies-Certificates)
+* [Initial Data Visibility in the Lacework Console](https://support.lacework.com/hc/en-us/articles/360005324633-Initial-Data-Visibility-in-the-Lacework-Console)
+
+### Agent Install Options
+* [Agent Installation Prerequisites](https://support.lacework.com/hc/en-us/articles/1500007191502-Agent-Installation-Prerequisites)
+* [Create Agent Access Tokens and Download the Agent Installers](https://support.lacework.com/hc/en-us/articles/360036425594-Create-Agent-Access-Tokens-and-Download-Agent-Installers)
+* [Use the Lacework Installation Script](https://support.lacework.com/hc/en-us/articles/360005321273-Use-the-Lacework-Installation-Script-install-sh-)
+* [Install with Chef](https://support.lacework.com/hc/en-us/articles/360005321413-Install-with-Chef)
+* [Install from APT and YUM Repositories](https://support.lacework.com/hc/en-us/articles/360023100733-Install-from-APT-and-YUM-Repositories)
+* [Install using a .deb or .rpm Package](https://support.lacework.com/hc/en-us/articles/360005262974-Install-using-a-deb-or-rpm-Package)
+* [Install with Ansible](https://support.lacework.com/hc/en-us/articles/360005321433-Install-with-Ansible)
+* [Install on a Dockerized Host](https://support.lacework.com/hc/en-us/articles/360005262994-Install-on-a-Dockerized-Host)
+* [Install using Docker Compose](https://support.lacework.com/hc/en-us/articles/360005321473-Install-using-Docker-Compose)
+* [Deploy on Kubernetes](https://support.lacework.com/hc/en-us/articles/360005263034-Deploy-on-Kubernetes)
+* [AWS ECS Fargate](https://support.lacework.com/hc/en-us/articles/360055567574-AWS-ECS-Fargate)
+* [Install on Alpine Linux](https://support.lacework.com/hc/en-us/articles/360052924153-Install-on-Alpine-Linux)
+* [Install on CoreOS](https://support.lacework.com/hc/en-us/articles/360006099534-Install-on-CoreOS)
+* [Use Packer to Create a Machine Image with an Installed Agent](https://support.lacework.com/hc/en-us/articles/360050017693-Use-Packer-to-Create-a-Machine-Image-with-an-Installed-Agent)
+* [Uninstall the Lacework Agent](https://support.lacework.com/hc/en-us/articles/360005324533-Uninstall-the-Lacework-Agent)
+* [Install the Lacework Agent on Hosts with the Lacework CLI](https://support.lacework.com/hc/en-us/articles/360059968374-Install-the-Lacework-Agent-on-Hosts-with-the-Lacework-CLI)
+* [Install Agent on AWS EC2 Instances using Terrafrom and AWS System Manager](https://support.lacework.com/hc/en-us/articles/1500003531682-Install-Agent-on-AWS-EC2-Instances-Using-Terraform-and-AWS-Systems-Manager)
+* [Deploy to Kubernetes with Terraform](https://support.lacework.com/hc/en-us/articles/1500003824601-Deploy-to-Kubernetes-with-Terraform)
+
+### Features & Configuration
+* [Usage Impact of Agent Deployment](https://support.lacework.com/hc/en-us/articles/360047019354-Usage-Impact-of-Agent-Deployment)
+
 ## Alert Routing
 
 ### Rules
