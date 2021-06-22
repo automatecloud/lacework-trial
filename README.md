@@ -35,5 +35,12 @@ This repository helps you to quickly find the necessary information for a succes
 * [VictorOps](https://support.lacework.com/hc/en-us/articles/360005916533-VictorOps)
 * [Webhook](https://support.lacework.com/hc/en-us/articles/360034367393-Webhook)
 
+## Lacework API and CLI
 
-## Reporting
+### API
+* [Access and run the Lacework API](https://support.lacework.com/hc/en-us/articles/360034971134-Access-and-Run-the-Lacework-API)
+* [Generate API Access Keys and Tokens](https://support.lacework.com/hc/en-us/articles/360011403853-Generate-API-Access-Keys-and-Tokens)
+
+### CLI
+* [Learn about the Lacework CLI](https://support.lacework.com/hc/en-us/articles/360048511134-Learn-about-the-Lacework-CLI)
+* [Install and configure the Lacework CLI](https://support.lacework.com/hc/en-us/articles/1500001558282-Install-and-Configure-the-Lacework-CLI)
