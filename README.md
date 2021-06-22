@@ -85,13 +85,53 @@ This repository helps you to quickly find the necessary information for a succes
 ## Lacework for AWS
 
 ### Integrate Lacework with AWS
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-
+* [AWS Config and CloudTrail Integration with Terraform](https://support.lacework.com/hc/en-us/articles/360057092034-AWS-Config-and-CloudTrail-Integration-with-Terraform)
+* [AWS Config and CloudTrail Integration with Terraform in AWS CloudShell](https://support.lacework.com/hc/en-us/articles/360062637313-AWS-Config-and-CloudTrail-Integration-with-Terraform-in-AWS-CloudShell)
+* [Initial Setup of AWS Config Integration](https://support.lacework.com/hc/en-us/articles/360005333493-Initial-Setup-of-AWS-Config-Integration)
+* [Initial Setup of AWS GovCloud Integration](https://support.lacework.com/hc/en-us/articles/360021140214-Initial-Setup-of-AWS-GovCloud-Integration)
+* [Initial Setup of Snowflake Integration to Access AWS CloudTrail Event Data - Beta](https://support.lacework.com/hc/en-us/articles/360024096013-Initial-Setup-of-Snowflake-Integration-to-Access-AWS-CloudTrail-Event-Data-Beta)
+* [Setup of Organization AWS CloudTrail Integration](https://support.lacework.com/hc/en-us/articles/360055993554-Setup-of-Organization-AWS-CloudTrail-Integration)
+* [Multiple AWS Account Integration](https://support.lacework.com/hc/en-us/articles/360011511373-Multiple-AWS-Account-Integration)
+* [Integration with S3 Bucket Using Server-Side-Encryption with AWS KMS Managed Keys](https://support.lacework.com/hc/en-us/articles/360019127414-Integration-with-S3-Buckets-Using-Server-Side-Encryption-with-AWS-KMS-Managed-Keys)
 
 ### Use Lacework for AWS
+
+* [Understand the AWS Compliance Dashboard Page](https://support.lacework.com/hc/en-us/articles/360020690814-Understand-the-AWS-Compliance-Dashboard-Page)
+* [Understand the AWS Compliance Reports](https://support.lacework.com/hc/en-us/articles/360020691574-Understand-the-AWS-Compliance-Reports)
+* [AWS Compliance Reports Using Suppression](https://support.lacework.com/hc/en-us/articles/360019235394-AWS-Compliance-Reports-Using-Suppression)
+* [Advanced Suppression Tag Matrix](https://support.lacework.com/hc/en-us/articles/360021591633-Advanced-Suppression-Tag-Matrix)
+* [Understand the AWS Compliance Summary](https://support.lacework.com/hc/en-us/articles/360020692074-Understand-the-AWS-Compliance-Summary)
+* [Understand the AWS CloudTrail Page](https://support.lacework.com/hc/en-us/articles/360020960873-Understand-the-AWS-CloudTrail-Page)
+* [Update AWS Account Name in Lacework Console](https://support.lacework.com/hc/en-us/articles/360013639414-Update-AWS-Account-Name-in-Lacework-Console)
+
+## Lacework for Azure
+
+### Integrate Lacework with Azure
+* [Azure Compliance Activity Log Integrations Terraform using Azure Cloud Shell](https://support.lacework.com/hc/en-us/articles/360057092134-Azure-Compliance-Activity-Log-Integrations-Terraform-using-Azure-Cloud-Shell)
+* [Azure Compliance Activity Log Integrations Terraform from any supported Host](https://support.lacework.com/hc/en-us/articles/360058966313-Azure-Compliance-Activity-Log-Integrations-Terraform-From-Any-Supported-Host)
+* [Azure Compliance Integration Manually using the Azure Portal](https://support.lacework.com/hc/en-us/articles/360024722453-Azure-Compliance-Integration-Manually-using-the-Azure-Portal)
+* [Azure Activity Log Integration Manually using the Azure Portal - Beta](https://support.lacework.com/hc/en-us/articles/360033957513-Azure-Activity-Log-Integration-Manually-using-the-Azure-Portal-Beta)
+* [Azure Compliance Lacework Permissions](https://support.lacework.com/hc/en-us/articles/360017295393-Azure-Compliance-Lacework-Permissions)
+* [Manually Create an Azure App for Integration](https://support.lacework.com/hc/en-us/articles/360027371493-Manually-Create-an-Azure-App-for-Integration)
+* [Gather the Required Azure Client ID, Tenant ID, and Client Secret](https://support.lacework.com/hc/en-us/articles/360029107274-Gather-the-Required-Azure-Client-ID-Tenant-ID-and-Client-Secret)
+* [Grant the Azure App the Required API Permissions](https://support.lacework.com/hc/en-us/articles/360038004554-Grant-the-Azure-App-the-Required-API-Permissions)
+
+## Lacework for GCP
+
+### Integrate Lacework with GCP
+
+* [GCP Compliance and Audit Trail Integration Terraform using Google Cloud Shell](https://support.lacework.com/hc/en-us/articles/360058784633-GCP-Compliance-and-Audit-Trail-Integration-Terraform-Using-Google-Cloud-Shell)
+* [GCP Compliance and Audit Trail Integration Terraform using Any Supported Host](https://support.lacework.com/hc/en-us/articles/360057065094-GCP-Compliance-and-Audit-Trail-Integration-Terraform-From-Any-Supported-Host)
+* [GCP Compliance Integration Manually using the GCP Console](https://support.lacework.com/hc/en-us/articles/360033423534-GCP-Compliance-Integration-Manually-using-the-GCP-Console)
+* [GCP Audit Trail Log Integration Manually using the GCP Console](https://support.lacework.com/hc/en-us/articles/360033953433-GCP-Audit-Trail-Log-Integration-Manually-using-the-GCP-Console)
+* [Create a GCP Service Account and Grant-Access](https://support.lacework.com/hc/en-us/articles/360033423414-Create-a-GCP-Service-Account-and-Grant-Access)
+* [Enable the Required GCP APIs](https://support.lacework.com/hc/en-us/articles/360034310713-Enable-the-Required-GCP-APIs)
+* [Delete a Lacework Integration in GCP](https://support.lacework.com/hc/en-us/articles/360019585593-Delete-a-Lacework-Integration-in-GCP)
+
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
 
 * [123](234234)
 * [123](234234)
@@ -134,6 +174,43 @@ This repository helps you to quickly find the necessary information for a succes
 ### CLI
 * [Learn about the Lacework CLI](https://support.lacework.com/hc/en-us/articles/360048511134-Learn-about-the-Lacework-CLI)
 * [Install and configure the Lacework CLI](https://support.lacework.com/hc/en-us/articles/1500001558282-Install-and-Configure-the-Lacework-CLI)
+
+## Snowflake Data Share & S3 Exporter
+* [Request a Snowflake Data Share](https://support.lacework.com/hc/en-us/articles/360058102073-Request-a-Snowflake-Data-Share)
+* [S3 Data Export](https://support.lacework.com/hc/en-us/articles/360056299214-S3-Data-Export)
+
+### Lacework Data Share
+* [MACHINE_SUMMARY_V View](https://support.lacework.com/hc/en-us/articles/360058053893-MACHINE-SUMMARY-V-View)
+* [USER_DETAILS_V View](https://support.lacework.com/hc/en-us/articles/360056198274-USER-DETAILS-V-View)
+* [USER_LOGIN_V View](https://support.lacework.com/hc/en-us/articles/360058053913-USER-LOGIN-V-View)
+* [PROCESS_SUMMARY_V View](https://support.lacework.com/hc/en-us/articles/360056198434-PROCESS-SUMMARY-V-View)
+* [CMDLINE_V View](https://support.lacework.com/hc/en-us/articles/360058053933-CMDLINE-V-View)
+* [POD_SUMMARY_V View](https://support.lacework.com/hc/en-us/articles/360058053973-POD-SUMMARY-V-View)
+* [CONTAINER_SUMMARY_V View](https://support.lacework.com/hc/en-us/articles/360056198494-CONTAINER-SUMMARY-V-View)
+* [DNS_QUERY_V View](https://support.lacework.com/hc/en-us/articles/360056198514-DNS-QUERY-V-View)
+* [INTERNAL_IPA_V_View](https://support.lacework.com/hc/en-us/articles/360056198534-INTERNAL-IPA-V-View)
+* [CONNECTIONS_V View](https://support.lacework.com/hc/en-us/articles/360056198654-CONNECTIONS-V-View)
+* [CHANGE_FILES_V View](https://support.lacework.com/hc/en-us/articles/360056216634-CHANGE-FILES-V-View)
+* [NEW_HASHES_V View](https://support.lacework.com/hc/en-us/articles/360058054333-NEW-HASHES-V-View)
+* [ALL_FILES_V View](https://support.lacework.com/hc/en-us/articles/360058054393-ALL-FILES-V-View)
+* [ALERTS_V View](https://support.lacework.com/hc/en-us/articles/360058054433-ALERTS-V-View)
+* [INTERFACES_V View](https://support.lacework.com/hc/en-us/articles/360058054513-INTERFACES-V-View)
+* [MACHINE_DETAILS_V View](https://support.lacework.com/hc/en-us/articles/360056199094-MACHINE-DETAILS-V-View)
+* [PACKAGE_V View](https://support.lacework.com/hc/en-us/articles/360056199114-PACKAGE-V-View)
+* [ALERT_DETAILS_V View](https://support.lacework.com/hc/en-us/articles/360056199154-ALERT-DETAILS-V-View)
+* [HOST_VULN_DETAILS_V View](https://support.lacework.com/hc/en-us/articles/360058054573-HOST-VULN-DETAILS-V-View)
+* [CONTAINER_VULN_DETAILS_V View](https://support.lacework.com/hc/en-us/articles/360056199314-CONTAINER-VULN-DETAILS-V-View)
+* [APPLICATIONS_V View](https://support.lacework.com/hc/en-us/articles/360056199334-APPLICATIONS-V-View)
+* [IMAGE_V View](https://support.lacework.com/hc/en-us/articles/360056199354-IMAGE-V-View)
+* [CLOUD_COMPLIANCE_V View](https://support.lacework.com/hc/en-us/articles/360058054633-CLOUD-COMPLIANCE-V-View)
+
+## Support FAQ
+
+### FAQs
+
+### Known Issues
+
+### Articles
 
 ## Release Updates
 [Release Updates](https://support.lacework.com/hc/en-us/categories/360000539793-Release-Updates)
