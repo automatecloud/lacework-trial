@@ -7,7 +7,19 @@ This repository helps you to quickly find the necessary information for a succes
 
 # Documentation
 
-## General Setup
+## Getting Started with Lacework
+* [Lacework Overview](https://support.lacework.com/hc/en-us/articles/360040977454-Lacework-Overview)
+* [Configure Lacework](https://support.lacework.com/hc/en-us/articles/360017546933-Configure-Lacework)
+* [Use the global dashboard and search](https://support.lacework.com/hc/en-us/articles/360021458673-Use-the-Global-Dashboard-and-Search)
+
+## Getting Started with Terraform for Lacework
+* [Terraform for Lacework Overview](https://support.lacework.com/hc/en-us/articles/360061585353-Terraform-for-Lacework-Overview)
+* [Managing Alert Channels with Terraform](https://support.lacework.com/hc/en-us/articles/1500001987702-Managing-Alert-Channels-with-Terraform)
+ 
+## Policies
+* [Use Policies](https://support.lacework.com/hc/en-us/articles/360023758713-Use-Policies)
+* [Suppress Behavior Anomaly Alerts](https://support.lacework.com/hc/en-us/articles/360038090714-Suppress-Behavior-Anomaly-Alerts)
+* [Suppress Crawler Related Alerts](https://support.lacework.com/hc/en-us/articles/360054841314-Suppress-Crawler-Related-Alerts)
 
 ## Alert Routing
 
