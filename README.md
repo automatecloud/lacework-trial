@@ -3,7 +3,7 @@
 This repository helps you to quickly find the necessary information for a successful Lacework Trial.
 
 # Architecture Overview
-![Architecture][architecture.png]
+![Architecture](architecture.png "Lacework Architecture")
 
 # Documentation
 
