@@ -62,7 +62,7 @@ This repository helps you to quickly find the necessary information for a succes
 
 * [Getting Ahead: Managing your Auditor with Lacework](https://youtu.be/3qm6OKpQ2cA)
 * [Be in the Know: New Features Review](https://youtu.be/qF9VB7sIoWg)
-* [Master Your Craft: Threat Hunting with Lacework](https://youtu.be/7J4eUDJVols()
+* [Master Your Craft: Threat Hunting with Lacework](https://youtu.be/7J4eUDJVols)
 * [Container Security: Protection at Buildtime and Runtime](https://youtu.be/QZZCsxScNUU)
 * [Host Vulnerability Monitoring](https://youtu.be/7rZi7Ih2Dbc)
 * [Expert Series New Threat Research: The Wild Frontier of Bash Malware](https://youtu.be/QOI4Meun0i4)
