@@ -16,6 +16,9 @@ This repository helps you to quickly find the necessary information for a succes
 * [Terraform for Lacework Overview](https://support.lacework.com/hc/en-us/articles/360061585353-Terraform-for-Lacework-Overview)
 * [Managing Alert Channels with Terraform](https://support.lacework.com/hc/en-us/articles/1500001987702-Managing-Alert-Channels-with-Terraform)
 
+## Resource Inventory
+* [Manage Integrated AWS Resources](https://support.lacework.com/hc/en-us/articles/360053927513-Manage-Integrated-AWS-Resources)
+
 ## Policies
 * [Use Policies](https://support.lacework.com/hc/en-us/articles/360023758713-Use-Policies)
 * [Suppress Behavior Anomaly Alerts](https://support.lacework.com/hc/en-us/articles/360038090714-Suppress-Behavior-Anomaly-Alerts)
@@ -56,6 +59,9 @@ This repository helps you to quickly find the necessary information for a succes
 ### CLI
 * [Learn about the Lacework CLI](https://support.lacework.com/hc/en-us/articles/360048511134-Learn-about-the-Lacework-CLI)
 * [Install and configure the Lacework CLI](https://support.lacework.com/hc/en-us/articles/1500001558282-Install-and-Configure-the-Lacework-CLI)
+
+## Release Updates
+[Release Updates](https://support.lacework.com/hc/en-us/categories/360000539793-Release-Updates)
 
 ## Webinars
 [How to Webinars](https://support.lacework.com/hc/en-us/articles/360051785933-How-to-Webinars)
