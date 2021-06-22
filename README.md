@@ -2,6 +2,9 @@
 
 This repository helps you to quickly find the necessary information for a successful Lacework Trial.
 
+# Architecture Overview
+![Architecture][architecture.png]
+
 # Documentation
 
 ## General Setup
@@ -25,7 +28,7 @@ This repository helps you to quickly find the necessary information for a succes
 * [Configure Splunk](https://support.lacework.com/hc/en-us/articles/360007889274-Splunk)
 * [Configure Sumo Logic](https://support.lacework.com/hc/en-us/articles/360019047194-Sumo-Logic)
 * [Configure VictorOps](https://support.lacework.com/hc/en-us/articles/360005916533-VictorOps)
-* [Configure VictorOps](https://support.lacework.com/hc/en-us/articles/360034367393-Webhook) 
+* [Configure VictorOps](https://support.lacework.com/hc/en-us/articles/360034367393-Webhook)
 
 
 ## Reporting
