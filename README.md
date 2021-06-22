@@ -132,12 +132,37 @@ This repository helps you to quickly find the necessary information for a succes
 * [123](234234)
 * [123](234234)
 * [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
+* [123](234234)
 
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
+## Authentication & Team Members
 
+### Team Member Management
+* [Team Members](https://support.lacework.com/hc/en-us/articles/360039936974-Team-Members)
+
+### Authentication
+* [Authentication Overview](https://support.lacework.com/hc/en-us/articles/360042245533-Authentication-Overview)
+* [SAML Configuration](https://support.lacework.com/hc/en-us/articles/360006024094-SAML-Configuration)
+* [Okta as a SAML IDP](https://support.lacework.com/hc/en-us/articles/360008064414-Okta-as-a-SAML-IDP)
+* [G Suite as a SAML IDP](https://support.lacework.com/hc/en-us/articles/360051847133-G-Suite-as-a-SAML-IDP)
+* [OneLogin as a SAML IDP](https://support.lacework.com/hc/en-us/articles/360053095973-OneLogin-as-a-SAML-IDP)
+* [Azure Active Directory as a SAML IDP](https://support.lacework.com/hc/en-us/articles/360013053993-Azure-Active-Directory-as-a-SAML-IDP)
+* [SAML JIT Overview](https://support.lacework.com/hc/en-us/articles/360041774074-SAML-JIT-Overview)
+* [Okta SAML JIT](https://support.lacework.com/hc/en-us/articles/360041774034-Okta-SAML-JIT)
+* [G Suite SAML JIT](https://support.lacework.com/hc/en-us/articles/360051098414-G-Suite-SAML-JIT)
+* [OneLogin SAML JIT](https://support.lacework.com/hc/en-us/articles/360053174653-OneLogin-SAML-JIT)
+* [Azure Active Directory JIT](https://support.lacework.com/hc/en-us/articles/360060995834-Azure-Active-Directory-JIT)
+* [Identity Provider-Initiated Single Sign-On](https://support.lacework.com/hc/en-us/articles/360045575914-Identity-Provider-Initiated-Single-Sign-On)
+* [Google OAuth Configuration](https://support.lacework.com/hc/en-us/articles/360006094194-Google-OAuth-Configuration)
 
 ## Alert Routing
 
@@ -237,6 +262,54 @@ This repository helps you to quickly find the necessary information for a succes
 
 ### Articles
 * [Configuring JumpCloud SAML IdP](https://support.lacework.com/hc/en-us/articles/1500005039442-Configuring-JumpCloud-SAML-IdP)
+
+## Events Reference
+
+### CloudTrail Events
+* [Introduction to CloudTrail Events](https://support.lacework.com/hc/en-us/articles/360050848173-Introduction-to-CloudTrail-Events)
+* [Event Name > Access Key Deleted](https://support.lacework.com/hc/en-us/articles/360050010714-Event-Name-Access-Key-Deleted)
+* [Event Name > CloudTrail Changed](https://support.lacework.com/hc/en-us/articles/360050010754-Event-Name-CloudTrail-Changed)
+* [Event Name > CloudTrail Deleted](https://support.lacework.com/hc/en-us/articles/360050010834-Event-Name-CloudTrail-Deleted)
+* [Event Name > CloudTrail Stopped](https://support.lacework.com/hc/en-us/articles/360050010814-Event-Name-CloudTrail-Stopped)
+* [Event Name > IAM Access Key Changed](https://support.lacework.com/hc/en-us/articles/360050792253-Event-Name-IAM-Access-Key-Changed)
+* [Event Name > IAM Policy Changed](https://support.lacework.com/hc/en-us/articles/360050010574-Event-Name-IAM-Policy-Changed)
+* [Event Name > NACL Change](https://support.lacework.com/hc/en-us/articles/360050791873-Event-Name-NACL-Change)
+* [Event Name > Network Gateway Change](https://support.lacework.com/hc/en-us/articles/360050009974-Event-Name-Network-Gateway-Change)
+* [Event Name > New Access Key](https://support.lacework.com/hc/en-us/articles/360050010694-Event-Name-New-Access-Key)
+* [Event Name > New Customer Master Key](https://support.lacework.com/hc/en-us/articles/360050010854-Event-Name-New-Customer-Master-Key)
+* [Event Name > New Customer Master Key Alias](https://support.lacework.com/hc/en-us/articles/360050792473-Event-Name-New-Customer-Master-Key-Alias)
+* [Event Name > New S3 Bucket](https://support.lacework.com/hc/en-us/articles/360050010154-Event-Name-New-S3-Bucket)
+* [Event Name > New VPC](https://support.lacework.com/hc/en-us/articles/360050791653-Event-Name-New-VPC)
+* [Event Name > New VPN Connection](https://support.lacework.com/hc/en-us/articles/360050791733-Event-Name-New-VPN-Connection)
+* [Event Name > Route Table Change](https://support.lacework.com/hc/en-us/articles/360050792053-Event-Name-Route-Table-Change)
+* [Event Name > S3 Bucket ACL Changed](https://support.lacework.com/hc/en-us/articles/360050792153-Event-Name-S3-Bucket-ACL-Changed)
+* [Event Name > S3 Bucket Deleted](https://support.lacework.com/hc/en-us/articles/360050792093-Event-Name-S3-Bucket-Deleted)
+* [Event Name > S3 Bucket Policy Changed](https://support.lacework.com/hc/en-us/articles/360050010514-Event-Name-S3-Bucket-Policy-Changed)
+* [Event Name > Security Group Change](https://support.lacework.com/hc/en-us/articles/360050791693-Event-Name-Security-Group-Change)
+* [Event Name > VPC Change](https://support.lacework.com/hc/en-us/articles/360050009874-Event-Name-VPC-Change)
+
+### Workload Events
+* [Introduction to Workload Events](https://support.lacework.com/hc/en-us/articles/360048416134-Introduction-to-Workload-Events)
+* [Event Name > Bad External Client IP Address](https://support.lacework.com/hc/en-us/articles/360049047933-Event-Name-Bad-External-Client-IP-Address)
+* [Event Name > Bad External Client DNS](https://support.lacework.com/hc/en-us/articles/360048302234-Event-Name-Bad-External-Client-DNS)
+* [Event Name > Bad External Host](https://support.lacework.com/hc/en-us/articles/360048301994-Event-Name-Bad-External-Host)
+* [Event Name > Bad External Server DNS Connection](https://support.lacework.com/hc/en-us/articles/360048302194-Event-Name-Bad-External-Server-DNS-Connection)
+* [Event Name > Bad External Server Host Connection](https://support.lacework.com/hc/en-us/articles/360049048173-Event-Name-Bad-External-Server-Host-Connection)
+* [Event Name > Bad External Server IP Address](https://support.lacework.com/hc/en-us/articles/360048302294-Event-Name-Bad-External-Server-IP-Address)
+* [Event Name > Bad External Server IP Address Connection](https://support.lacework.com/hc/en-us/articles/360049048293-Event-Name-Bad-External-Server-IP-Address-Connection)
+* [Event Name > New Application](https://support.lacework.com/hc/en-us/articles/360049048313-Event-Name-New-Application)
+* [Event Name > New External Host](https://support.lacework.com/hc/en-us/articles/360048301974-Event-Name-New-External-Host)
+* [Event Name > New External Host Connection](https://support.lacework.com/hc/en-us/articles/360048302094-Event-Name-New-External-Host-Connection)
+* [Event Name > New External Server Host Connection](https://support.lacework.com/hc/en-us/articles/360049048153-Event-Name-New-External-Server-Host-Connection)
+* [Event Name > New External Server IP Address](https://support.lacework.com/hc/en-us/articles/360048302274-Event-Name-New-External-Server-IP-Address)
+* [Event Name > New External Server IP Address Connection](https://support.lacework.com/hc/en-us/articles/360048302354-Event-Name-New-External-Server-IP-Address-Connection)
+* [Event Name > New Internal Connection](https://support.lacework.com/hc/en-us/articles/360049047953-Event-Name-New-Internal-Connection)
+* [Event Name > New Internal Host Connection](https://support.lacework.com/hc/en-us/articles/360048301954-Event-Name-New-Internal-Host-Connection)
+* [Event Name > New Privilege Escalation](https://support.lacework.com/hc/en-us/articles/360048302394-Event-Name-New-Privilege-Escalation)
+* [Event Name > Suspicious Login](https://support.lacework.com/hc/en-us/articles/360049048373-Event-Name-Suspicious-Login)
+* [Event Name > User Launched New Binary](https://support.lacework.com/hc/en-us/articles/360049048393-Event-Name-User-Launched-New-Binary)
+* [Event Name > User Logged in from New IP](https://support.lacework.com/hc/en-us/articles/360048302494-Event-Name-User-Logged-in-from-New-IP)
+* [Event Name > User Logged in from New Location](https://support.lacework.com/hc/en-us/articles/360048302514-Event-Name-User-Logged-in-from-New-Location)
 
 ## Release Updates
 [Release Updates](https://support.lacework.com/hc/en-us/categories/360000539793-Release-Updates)
