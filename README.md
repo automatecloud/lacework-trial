@@ -207,10 +207,36 @@ This repository helps you to quickly find the necessary information for a succes
 ## Support FAQ
 
 ### FAQs
+* [AWS Cloud Formation template fails with error](https://support.lacework.com/hc/en-us/articles/4402014424723-AWS-Cloud-Formation-template-fails-with-error-)
+* [Search results are skewed when search string has a leading hyphen ('-')](https://support.lacework.com/hc/en-us/articles/1500008994641-Search-results-are-skewed-when-search-string-has-a-leading-hyphen-)
+* [Security Group not attached to any AWS resource is not flagged by LW_AWS_NETWORKING_1](https://support.lacework.com/hc/en-us/articles/1500008520842-Security-Group-not-attached-to-any-AWS-resource-is-not-flagged-by-LW-AWS-NETWORKING-1)
+* [Custom AWS EC2 tags not showing up in Lacework Console.](https://support.lacework.com/hc/en-us/articles/1500008499902-Custom-AWS-EC2-tags-not-showing-up-in-Lacework-Console-)
+* [My alert rule with a resource group isn't triggering a notification](https://support.lacework.com/hc/en-us/articles/1500007900481-My-alert-rule-with-a-resource-group-isn-t-triggering-a-notification)
+* [AWS Compliance reports are missing items](https://support.lacework.com/hc/en-us/articles/1500007330621-AWS-Compliance-reports-are-missing-items-)
+* [Why is the agent count different in the Machines dossiers from what I see in the Usage summary?](https://support.lacework.com/hc/en-us/articles/1500007103642-Why-is-the-agent-count-different-in-the-Machines-dossiers-from-what-I-see-in-the-Usage-summary-)
+* [AWS Cloudtrail Integration Shows SQS Queue or SNS Error](https://support.lacework.com/hc/en-us/articles/1500005826681-AWS-Cloudtrail-Integration-Shows-SQS-Queue-or-SNS-Error)
+* [Why is the ps command issued by a user, performed by root user?](https://support.lacework.com/hc/en-us/articles/1500005806822-Why-is-the-ps-command-issued-by-a-user-performed-by-root-user-)
+* [Inconsistencies in how agent packages are named](https://support.lacework.com/hc/en-us/articles/1500005617742-Inconsistencies-in-how-agent-packages-are-named)
+* [Is there a Lacework GCP recommendation for alerting if someone is sharing Google Productivity resources globally?](https://support.lacework.com/hc/en-us/articles/1500005482962-Is-there-a-Lacework-GCP-recommendation-for-alerting-if-someone-is-sharing-Google-Productivity-resources-globally-)
+* [What does a 400 error mean when trying to integrate JIRA?](https://support.lacework.com/hc/en-us/articles/1500004910402-What-does-a-400-error-mean-when-trying-to-integrate-JIRA-)
+* [What does a 403 error mean when trying to integrate JIRA?](https://support.lacework.com/hc/en-us/articles/1500004910142-What-does-a-403-error-mean-when-trying-to-integrate-JIRA-)
+* [Compliance recommendation and Compliance event severity are inconsistent](https://support.lacework.com/hc/en-us/articles/1500004333181-Compliance-recommendation-and-Compliance-event-severity-are-inconsistent)
+* [Agent Monitor card shows random IP address of host instead of expected external IP](https://support.lacework.com/hc/en-us/articles/1500003990101-Agent-Monitor-card-shows-random-IP-address-of-host-instead-of-expected-external-IP)
+* [Why does the compliance report status show Could Not Assess](https://support.lacework.com/hc/en-us/articles/1500003828942-Why-does-the-compliance-report-status-show-Could-Not-Assess)
+* [Unable to verify status of the vulnerability scan during Jenkins build](https://support.lacework.com/hc/en-us/articles/1500003685061-Unable-to-verify-status-of-the-vulnerability-scan-during-Jenkins-build)
+* [What are the most common reasons for a failed AWS Cloudtrail integration?](https://support.lacework.com/hc/en-us/articles/1500003626761-What-are-the-most-common-reasons-for-a-failed-AWS-Cloudtrail-integration-)
+* [Generating agent logs when troubleshooting the datacollector in Fargate](https://support.lacework.com/hc/en-us/articles/1500003618741-Generating-agent-logs-when-troubleshooting-the-datacollector-in-Fargate)
+* [The AWS Fargate sidecar integration crashes the host if datacollector fails to run](https://support.lacework.com/hc/en-us/articles/1500003748642-The-AWS-Fargate-sidecar-integration-crashes-the-host-if-datacollector-fails-to-run)
+* [How to move cloud integrations to different tenants on Lacework Org accounts?](https://support.lacework.com/hc/en-us/articles/1500003657342-How-to-move-cloud-integrations-to-different-tenants-on-Lacework-Org-accounts-)
+* [How do you delete an org admin account in Lacework?](https://support.lacework.com/hc/en-us/articles/1500003310262-How-do-you-delete-an-org-admin-account-in-Lacework-)
+* [Why am I seeing integration failures, "Could not assess" and/or no data showing up?](https://support.lacework.com/hc/en-us/articles/1500002776761-Why-am-I-seeing-integration-failures-Could-not-assess-and-or-no-data-showing-up-)
 
 ### Known Issues
+* [Why is my Jfrog webhooks not working for a virtual repository?](https://support.lacework.com/hc/en-us/articles/1500011589441-Why-is-my-Jfrog-webhooks-not-working-for-a-virtual-repository-)
+* [Why is my integration showing as an error?](https://support.lacework.com/hc/en-us/articles/1500010133621-Why-is-my-integration-showing-as-an-error-)
 
 ### Articles
+* [Configuring JumpCloud SAML IdP](https://support.lacework.com/hc/en-us/articles/1500005039442-Configuring-JumpCloud-SAML-IdP)
 
 ## Release Updates
 [Release Updates](https://support.lacework.com/hc/en-us/categories/360000539793-Release-Updates)
