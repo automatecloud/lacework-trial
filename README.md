@@ -15,7 +15,7 @@ This repository helps you to quickly find the necessary information for a succes
 ## Getting Started with Terraform for Lacework
 * [Terraform for Lacework Overview](https://support.lacework.com/hc/en-us/articles/360061585353-Terraform-for-Lacework-Overview)
 * [Managing Alert Channels with Terraform](https://support.lacework.com/hc/en-us/articles/1500001987702-Managing-Alert-Channels-with-Terraform)
- 
+
 ## Policies
 * [Use Policies](https://support.lacework.com/hc/en-us/articles/360023758713-Use-Policies)
 * [Suppress Behavior Anomaly Alerts](https://support.lacework.com/hc/en-us/articles/360038090714-Suppress-Behavior-Anomaly-Alerts)
@@ -56,3 +56,16 @@ This repository helps you to quickly find the necessary information for a succes
 ### CLI
 * [Learn about the Lacework CLI](https://support.lacework.com/hc/en-us/articles/360048511134-Learn-about-the-Lacework-CLI)
 * [Install and configure the Lacework CLI](https://support.lacework.com/hc/en-us/articles/1500001558282-Install-and-Configure-the-Lacework-CLI)
+
+## Webinars
+[How to Webinars](https://support.lacework.com/hc/en-us/articles/360051785933-How-to-Webinars)
+
+* [Getting Ahead: Managing your Auditor with Lacework](https://youtu.be/3qm6OKpQ2cA)
+* [Be in the Know: New Features Review](https://youtu.be/qF9VB7sIoWg)
+* [Master Your Craft: Threat Hunting with Lacework](https://youtu.be/7J4eUDJVols()
+* [Container Security: Protection at Buildtime and Runtime](https://youtu.be/QZZCsxScNUU)
+* [Host Vulnerability Monitoring](https://youtu.be/7rZi7Ih2Dbc)
+* [Expert Series New Threat Research: The Wild Frontier of Bash Malware](https://youtu.be/QOI4Meun0i4)
+* [Expert Series How to Optimize Your Incident Response in the Cloud](https://youtu.be/IYR7riRQUYw)
+* [Move Like a Butterfly, Sting With the Command Line Interface](https://youtu.be/Pj-cCyq64Gs)
+* [Evidencing to Auditors - 40x Faster](https://youtu.be/MfwKwqGmJe0)
