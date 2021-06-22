@@ -82,16 +82,16 @@ This repository helps you to quickly find the necessary information for a succes
 * [Processes Dossier](https://support.lacework.com/hc/en-us/articles/360035352454-Processes-Dossier)
 * [Users Dossier](https://support.lacework.com/hc/en-us/articles/360035352434-Users-Dossier)
 
-### Lacework for AWS
+## Lacework for AWS
 
-#### Integrate Lacework with AWS
+### Integrate Lacework with AWS
 * [123](234234)
 * [123](234234)
 * [123](234234)
 * [123](234234)
 
 
-#### Use Lacework for AWS
+### Use Lacework for AWS
 
 * [123](234234)
 * [123](234234)
