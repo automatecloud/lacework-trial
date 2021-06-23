@@ -32,7 +32,8 @@ Now you should be ready to go an in the next section we will focus more in detai
 
 
 # Documentation
-**Last Update: 23. June 2021**
+
+The following are quick links to the Lacework documentation to quickly find specific sections for your trial need. The last update of the links was done on the **23th of June 2021**
 
 ## Getting Started with Lacework
 * [Lacework Overview](https://support.lacework.com/hc/en-us/articles/360040977454-Lacework-Overview)
