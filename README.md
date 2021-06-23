@@ -128,21 +128,16 @@ This repository helps you to quickly find the necessary information for a succes
 * [Enable the Required GCP APIs](https://support.lacework.com/hc/en-us/articles/360034310713-Enable-the-Required-GCP-APIs)
 * [Delete a Lacework Integration in GCP](https://support.lacework.com/hc/en-us/articles/360019585593-Delete-a-Lacework-Integration-in-GCP)
 
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
-* [123](234234)
+## Container vulnerability
+* [Container Vulnerability Assessment Overview](https://support.lacework.com/hc/en-us/articles/360035472393-Container-Vulnerability-Assessment-Overview)
+* [Integrate Amazon Container Registry](https://support.lacework.com/hc/en-us/articles/360048500133-Integrate-Amazon-Container-Registry)
+* [Integrate Docker Hub](https://support.lacework.com/hc/en-us/articles/360047769794-Integrate-Docker-Hub)
+* [Integrate a Docker V2 Registry](https://support.lacework.com/hc/en-us/articles/360047769854-Integrate-a-Docker-V2-Registry)
+* [Integrate GitHub Container Registry](https://support.lacework.com/hc/en-us/articles/1500002482302-Integrate-GitHub-Container-Registry)
+* [Integrate Google Artifact Registry](https://support.lacework.com/hc/en-us/articles/1500009169561-Integrate-Google-Artifact-Registry)
+* [Integrate Google Container Registry](https://support.lacework.com/hc/en-us/articles/360047770014-Integrate-Google-Container-Registry)
+* [Integrate Inline Scanner](https://support.lacework.com/hc/en-us/articles/1500001777821-Integrate-Inline-Scanner)
+* [Integrate Proxy Scanner](https://support.lacework.com/hc/en-us/articles/1500004222981-Integrate-Proxy-Scanner)
 
 ## Authentication & Team Members
 
@@ -163,6 +158,16 @@ This repository helps you to quickly find the necessary information for a succes
 * [Azure Active Directory JIT](https://support.lacework.com/hc/en-us/articles/360060995834-Azure-Active-Directory-JIT)
 * [Identity Provider-Initiated Single Sign-On](https://support.lacework.com/hc/en-us/articles/360045575914-Identity-Provider-Initiated-Single-Sign-On)
 * [Google OAuth Configuration](https://support.lacework.com/hc/en-us/articles/360006094194-Google-OAuth-Configuration)
+
+## Account & Organization Management
+* [Audit Logs](https://support.lacework.com/hc/en-us/articles/360042198473-Audit-Logs)
+* [General Settings](https://support.lacework.com/hc/en-us/articles/360042198453-General-Settings)
+* [Integrations](https://support.lacework.com/hc/en-us/articles/360041727374-Integrations)
+* [Resource Groups](https://support.lacework.com/hc/en-us/articles/360041727354-Resource-Groups)
+* [Usage](https://support.lacework.com/hc/en-us/articles/360042198513-Usage)
+* [Organization Overview](https://support.lacework.com/hc/en-us/articles/360041727394-Organization-Overview)
+* [Organization Dashboard](https://support.lacework.com/hc/en-us/articles/360042198493-Organization-Dashboard)
+* [Create New Account in an Organization](https://support.lacework.com/hc/en-us/articles/360041727414-Create-New-Account-in-an-Organization)
 
 ## Alert Routing
 
