@@ -24,12 +24,37 @@ Now you should be ready to go an in the next section we will focus more in detai
 
 # Use Cases
 
-1.
+The following is a list of all the use cases customers typically want to test during a trial of the Lacework platform. Each Use Case has a unique ID. The idea here is to extend the use cases over time and with the grow of the feature set of our platform.
 
-2.
+## Cloud COMPLIANCE
 
-3.
+### AWS COMPLIANCE
 
+### Azure Compliance
+
+### GCP Compliance
+
+## Cloud Resource Management
+
+## User Entity Behaviour Analytics
+
+### AWS UEBA
+
+### Azure UBEA
+
+### GCP UBEA
+
+## Vulnerability Management
+
+### Vulnerability Management for Container
+
+### Vulnerability Management for Hosts
+
+## Workload Security
+
+## Alerting
+
+## Authentication
 
 # Documentation
 
