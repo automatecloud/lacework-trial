@@ -1,6 +1,13 @@
 # Lacework Trial
 
-This repository helps you to quickly find the necessary information for a successful Lacework trial.
+You plan to do a trail of Lacework? Great! This repository helps you to quickly find the necessary information for a successful Lacework trial. The target is to have a full overview of all the Lacework use cases including instructions how to configure and test them.
+
+# How to start?
+
+To not get lost first of all we recommend to [Go to Real Cool Heading section](#getting-started-with-lacework)
+
+# Use Cases
+
 
 # Architecture Overview
 ![Architecture](architecture.png "Lacework Architecture")
