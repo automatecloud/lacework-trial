@@ -4,10 +4,15 @@ You plan to do a trail of Lacework? Great! This repository helps you to quickly 
 
 # How to start?
 
-To not get lost first of all we recommend to [Go to Real Cool Heading section](#getting-started-with-lacework)
+First of all we recommend starting with the [Getting Started with Lacework](#getting-started-with-lacework) overview to get a basic understanding about the Lacework Platform and the different use cases.
+
+In general there are many deployment options for Lacework including manual deployments. However, nearly all of our customers are using our Terraform [Provider](https://registry.terraform.io/search/providers?q=lacework) and [Modules](https://registry.terraform.io/search/modules?q=lacework) to simplify the onboarding and ongoing management of Lacework as Infrastructure as Code.
+
+Based on your trail testing plans we need to separate between agentless and agent based.
+
+On the agentless side we need to separate between Compliance and User Entity Behaviour Analytics. Depending on your use cases and cloud environments you plan to onboard during a trial we recommend to start for AWS with the [Integrate Lacework with AWS](#integrate-lacework-with-aws) for GCP with [Integrate Lacework with GCP](#integrate-lacework-with-gcp) the and for Azure with the [Integrate Lacework with Azure](#integrate-lacework-with-azure).
 
 # Use Cases
-
 
 # Architecture Overview
 ![Architecture](architecture.png "Lacework Architecture")
