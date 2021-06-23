@@ -6,7 +6,7 @@ This repository helps you to quickly find the necessary information for a succes
 ![Architecture](architecture.png "Lacework Architecture")
 
 # Documentation
-Last Update 23. June 2021
+**Last Update: 23. June 2021**
 
 ## Getting Started with Lacework
 * [Lacework Overview](https://support.lacework.com/hc/en-us/articles/360040977454-Lacework-Overview)
