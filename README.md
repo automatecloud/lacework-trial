@@ -12,7 +12,7 @@ The following diagram gives you a high level overview about the different compon
 
 In general there are many deployment options for Lacework including manual deployments. However, nearly all of our customers are using our Terraform [Provider](https://registry.terraform.io/search/providers?q=lacework) and [Modules](https://registry.terraform.io/search/modules?q=lacework) to simplify the onboarding and ongoing management of Lacework as Infrastructure as Code. For this approach we recommend to begin with the [Getting Started with Terraform for Lacework](#getting-started-with-terraform-for-lacework).
 
-Based on your trail testing plans we need to separate between agentless and agent based.
+Based on your trail testing plans we need to separate between **agentless** and **agent based**.
 
 On the agentless side we need to separate between **Compliance**, **User Entity Behaviour Analytics** and **Container Vulnerability Scanning**. Depending on your use cases and cloud environments you plan to onboard during a trial we recommend to start for AWS with the [Integrate Lacework with AWS](#integrate-lacework-with-aws) for GCP with [Integrate Lacework with GCP](#integrate-lacework-with-gcp) the and for Azure with the [Integrate Lacework with Azure](#integrate-lacework-with-azure). For the Container Vulnerability Scanning we recommend to start with [Container vulnerability](#container-vulnerability) and pre check the supported **Operating Systems** and **Container Registries** at the [Container Vulnerability Assessment Overview](https://support.lacework.com/hc/en-us/articles/360035472393-Container-Vulnerability-Assessment-Overview) overview.
 
@@ -24,7 +24,7 @@ Now you should be ready to go an in the next section we will focus more in detai
 
 # Use Cases
 
-1. 
+1.
 
 2.
 
