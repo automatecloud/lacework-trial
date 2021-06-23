@@ -6,16 +6,30 @@ You plan to do a trail of Lacework? Great! This repository helps you to quickly 
 
 First of all we recommend starting with the [Getting Started with Lacework](#getting-started-with-lacework) overview to get a basic understanding about the Lacework Platform and the different use cases.
 
+## Architecture Overview
+The following diagram gives you a high level overview about the different components when using the Lacework platform.
+![Architecture](architecture.png "Lacework Architecture")
+
 In general there are many deployment options for Lacework including manual deployments. However, nearly all of our customers are using our Terraform [Provider](https://registry.terraform.io/search/providers?q=lacework) and [Modules](https://registry.terraform.io/search/modules?q=lacework) to simplify the onboarding and ongoing management of Lacework as Infrastructure as Code. For this approach we recommend to begin with the [Getting Started with Terraform for Lacework](#getting-started-with-terraform-for-lacework).
 
 Based on your trail testing plans we need to separate between agentless and agent based.
 
-On the agentless side we need to separate between Compliance and User Entity Behaviour Analytics. Depending on your use cases and cloud environments you plan to onboard during a trial we recommend to start for AWS with the [Integrate Lacework with AWS](#integrate-lacework-with-aws) for GCP with [Integrate Lacework with GCP](#integrate-lacework-with-gcp) the and for Azure with the [Integrate Lacework with Azure](#integrate-lacework-with-azure).
+On the agentless side we need to separate between **Compliance**, **User Entity Behaviour Analytics** and **Container Vulnerability Scanning**. Depending on your use cases and cloud environments you plan to onboard during a trial we recommend to start for AWS with the [Integrate Lacework with AWS](#integrate-lacework-with-aws) for GCP with [Integrate Lacework with GCP](#integrate-lacework-with-gcp) the and for Azure with the [Integrate Lacework with Azure](#integrate-lacework-with-azure). For the Container Vulnerability Scanning we recommend to start with [Container vulnerability](#container-vulnerability) and pre check the supported **Operating Systems** and **Container Registries** at the [Container Vulnerability Assessment Overview](https://support.lacework.com/hc/en-us/articles/360035472393-Container-Vulnerability-Assessment-Overview) overview.
+
+On the agent based side you need to make sure that your **Operating System** is on the list of [Supported Operating Systems](https://support.lacework.com/hc/en-us/articles/360005230014-Supported-Operating-Systems) and that you can make sure that all agents have the [Required Connectivity, Proxies and Certificates](https://support.lacework.com/hc/en-us/articles/360008149354-Required-Connectivity-Proxies-Certificates). For the Agent we have several [Agent Install Options](#agent-install-options). The agent has several capabilities and we recommend to do a read through of the [Features and Configuration](#features-and-configuration) section.
+
+After finishing the onboarding of your cloud accounts, registries and agents you can start to focus on [Authentication and Team Members](#authentication-and-team-members) and also the [Alert Routing](#alert-routing)
+
+Now you should be ready to go an in the next section we will focus more in detail on specific use cases and how you can test them during your trial.
 
 # Use Cases
 
-# Architecture Overview
-![Architecture](architecture.png "Lacework Architecture")
+1. 
+
+2.
+
+3.
+
 
 # Documentation
 **Last Update: 23. June 2021**
@@ -64,7 +78,7 @@ On the agentless side we need to separate between Compliance and User Entity Beh
 * [Install Agent on AWS EC2 Instances using Terrafrom and AWS System Manager](https://support.lacework.com/hc/en-us/articles/1500003531682-Install-Agent-on-AWS-EC2-Instances-Using-Terraform-and-AWS-Systems-Manager)
 * [Deploy to Kubernetes with Terraform](https://support.lacework.com/hc/en-us/articles/1500003824601-Deploy-to-Kubernetes-with-Terraform)
 
-### Features & Configuration
+### Features and Configuration
 * [Usage Impact of Agent Deployment](https://support.lacework.com/hc/en-us/articles/360047019354-Usage-Impact-of-Agent-Deployment)
 * [Configure Agent Behavior in confg.json file](https://support.lacework.com/hc/en-us/articles/360024365753-Configure-Agent-Behavior-in-config-json-File)
 * [Agent Access Tokens](https://support.lacework.com/hc/en-us/articles/360005318133-Agent-Access-Tokens)
@@ -152,7 +166,7 @@ On the agentless side we need to separate between Compliance and User Entity Beh
 * [Integrate Inline Scanner](https://support.lacework.com/hc/en-us/articles/1500001777821-Integrate-Inline-Scanner)
 * [Integrate Proxy Scanner](https://support.lacework.com/hc/en-us/articles/1500004222981-Integrate-Proxy-Scanner)
 
-## Authentication & Team Members
+## Authentication and Team Members
 
 ### Team Member Management
 * [Team Members](https://support.lacework.com/hc/en-us/articles/360039936974-Team-Members)
