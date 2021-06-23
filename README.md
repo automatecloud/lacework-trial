@@ -6,7 +6,7 @@ You plan to do a trail of Lacework? Great! This repository helps you to quickly 
 
 First of all we recommend starting with the [Getting Started with Lacework](#getting-started-with-lacework) overview to get a basic understanding about the Lacework Platform and the different use cases.
 
-In general there are many deployment options for Lacework including manual deployments. However, nearly all of our customers are using our Terraform [Provider](https://registry.terraform.io/search/providers?q=lacework) and [Modules](https://registry.terraform.io/search/modules?q=lacework) to simplify the onboarding and ongoing management of Lacework as Infrastructure as Code.
+In general there are many deployment options for Lacework including manual deployments. However, nearly all of our customers are using our Terraform [Provider](https://registry.terraform.io/search/providers?q=lacework) and [Modules](https://registry.terraform.io/search/modules?q=lacework) to simplify the onboarding and ongoing management of Lacework as Infrastructure as Code. For this approach we recommend to begin with the [Getting Started with Terraform for Lacework](#getting-started-with-terraform-for-lacework).
 
 Based on your trail testing plans we need to separate between agentless and agent based.
 
