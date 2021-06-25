@@ -290,6 +290,17 @@ The following are quick links to the Lacework documentation to quickly find spec
 ## Support FAQ
 
 ### FAQs
+* [Lacework FAQs](https://support.lacework.com/hc/en-us/articles/360005949253-Lacework-FAQs)
+* [Lacework for AWS Cloudtrail FAQs](https://support.lacework.com/hc/en-us/articles/360005871694-Lacework-for-AWS-Cloudtrail-FAQs)
+* [Lacework for GCP - FAQs](https://support.lacework.com/hc/en-us/articles/360034309914-Lacework-for-GCP-FAQs)
+* [Lacework Agent - FAQs](https://support.lacework.com/hc/en-us/articles/360005949293-Lacework-Agent-FAQs)
+* [Lacework Polygraph - FAQs](https://support.lacework.com/hc/en-us/articles/360005871714-Lacework-Polygraph-FAQs)
+* [Lacework Data Security - FAQs](https://support.lacework.com/hc/en-us/articles/360005949273-Lacework-Data-Security-FAQs)
+* [Lacework File Integrity Monitoring FIM - FAQs](https://support.lacework.com/hc/en-us/articles/360023741793-Lacework-File-Integrity-Monitoring-FIM-FAQs)
+* [Lacework Outbound IPs](https://support.lacework.com/hc/en-us/articles/360052140433-Lacework-Outbound-IPs)
+* [Lacework Console Login Issues](https://support.lacework.com/hc/en-us/articles/360023873874-Lacework-Console-Login-Issues)
+
+### Specific FAQs
 * [AWS Cloud Formation template fails with error](https://support.lacework.com/hc/en-us/articles/4402014424723-AWS-Cloud-Formation-template-fails-with-error-)
 * [Search results are skewed when search string has a leading hyphen ('-')](https://support.lacework.com/hc/en-us/articles/1500008994641-Search-results-are-skewed-when-search-string-has-a-leading-hyphen-)
 * [Security Group not attached to any AWS resource is not flagged by LW_AWS_NETWORKING_1](https://support.lacework.com/hc/en-us/articles/1500008520842-Security-Group-not-attached-to-any-AWS-resource-is-not-flagged-by-LW-AWS-NETWORKING-1)
