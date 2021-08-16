@@ -32,15 +32,13 @@ The following is a list of all the use cases customers typically want to test du
 
 ## Agentless
 
-### CSPM - Cloud COMPLIANCE
+### CSPM - Cloud Resource Management & Cloud Compliance
 
-#### AWS COMPLIANCE
+#### AWS Compliance
 
 #### Azure Compliance
 
 #### GCP Compliance
-
-### CSPM - Cloud Resource Management
 
 ### CSPM+ - User Entity Behaviour Analytics
 
