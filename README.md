@@ -42,6 +42,8 @@ The following is a list of all the use cases customers typically want to test du
 
 ### Alerting
 
+### Policies
+
 ## Agentless
 
 ### CSPM - Cloud Resource Management & Cloud Compliance
