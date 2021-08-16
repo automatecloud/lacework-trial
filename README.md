@@ -30,35 +30,43 @@ Now you should be ready to go an in the next section we will focus more in detai
 
 The following is a list of all the use cases customers typically want to test during a trial of the Lacework platform. Each Use Case has a unique ID. The idea here is to extend the use cases over time and with the grow of the feature set of our platform.
 
-## Cloud COMPLIANCE
+## Agentless
 
-### AWS COMPLIANCE
+### CSPM - Cloud COMPLIANCE
 
-### Azure Compliance
+#### AWS COMPLIANCE
 
-### GCP Compliance
+#### Azure Compliance
 
-## Cloud Resource Management
+#### GCP Compliance
 
-## User Entity Behaviour Analytics
+### CSPM - Cloud Resource Management
 
-### AWS UEBA
+### CSPM+ - User Entity Behaviour Analytics
 
-### Azure UBEA
+#### AWS UEBA
 
-### GCP UBEA
+#### Azure UBEA
 
-## Vulnerability Management
+#### GCP UBEA
 
-### Vulnerability Management for Container
+## Agent based
 
-### Vulnerability Management for Hosts
+### Vulnerability Management
 
-## Workload Security
+#### Vulnerability Management for Container
 
-## Alerting
+#### Vulnerability Management for Hosts
 
-## Authentication
+### HIDS (Host Intrusion Detection System)
+
+#### Workload Security
+
+#### Container and Kubernetes Security
+
+### Alerting
+
+### Authentication
 
 # Documentation
 
