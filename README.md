@@ -1,6 +1,6 @@
 # Lacework Trial
 
-You plan to do a trail of Lacework? Great! This repository helps you to quickly find the necessary information for a successful Lacework trial. The target is to have a full overview of all the Lacework use cases including instructions how to configure and test them.
+You plan to do a trail of Lacework? Great! This repository helps you to quickly find the necessary information for a successful trial of the Lacework solution. The target is to have a full overview of all the Lacework use cases including instructions how to configure and test them.
 
 # How to start?
 
@@ -14,7 +14,11 @@ In general there are many deployment options for Lacework including manual deplo
 
 Based on your trail testing plans we need to separate between **agentless** and **agent based**.
 
+### Agentless
+
 On the agentless side we need to separate between **Compliance**, **User Entity Behaviour Analytics** and **Container Vulnerability Scanning**. Depending on your use cases and cloud environments you plan to onboard during a trial we recommend to start for AWS with the [Integrate Lacework with AWS](#integrate-lacework-with-aws) for GCP with [Integrate Lacework with GCP](#integrate-lacework-with-gcp) the and for Azure with the [Integrate Lacework with Azure](#integrate-lacework-with-azure). For the Container Vulnerability Scanning we recommend to start with [Container vulnerability](#container-vulnerability) and pre check the supported **Operating Systems** and **Container Registries** at the [Container Vulnerability Assessment Overview](https://support.lacework.com/hc/en-us/articles/360035472393-Container-Vulnerability-Assessment-Overview) overview.
+
+### Agent based
 
 On the agent based side you need to make sure that your **Operating System** is on the list of [Supported Operating Systems](https://support.lacework.com/hc/en-us/articles/360005230014-Supported-Operating-Systems) and that you can make sure that all agents have the [Required Connectivity, Proxies and Certificates](https://support.lacework.com/hc/en-us/articles/360008149354-Required-Connectivity-Proxies-Certificates). For the Agent we have several [Agent Install Options](#agent-install-options). The agent has several capabilities and we recommend to do a read through of the [Features and Configuration](#features-and-configuration) section.
 
