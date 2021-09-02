@@ -32,7 +32,7 @@ The following is a list of all the use cases customers typically want to test du
 
 ## Platform
 
-### Graphical User Interface (GUI)
+### [Graphical User Interface - GUI](/usecases/gui.md)
 
 ### Command Line Interface (CLI)
 
